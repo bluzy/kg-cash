@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e342594b18f7df836e1145e30e3128bf",
+    "revision": "5270906a939325f6fee2a2e5bbc1cb5e",
     "url": "/kg-cash/index.html"
   },
   {
-    "revision": "cf667f596b32afe89ffa",
+    "revision": "c8154add6e5addfefc4f",
     "url": "/kg-cash/static/css/main.69eda509.chunk.css"
   },
   {
-    "revision": "66716b0676492bb95669",
-    "url": "/kg-cash/static/js/2.03605b03.chunk.js"
+    "revision": "f5b1e09e42f570a01621",
+    "url": "/kg-cash/static/js/2.036bf3bf.chunk.js"
   },
   {
     "revision": "68ba00d5eb083746d913686923a3d904",
-    "url": "/kg-cash/static/js/2.03605b03.chunk.js.LICENSE.txt"
+    "url": "/kg-cash/static/js/2.036bf3bf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cf667f596b32afe89ffa",
-    "url": "/kg-cash/static/js/main.141f95dc.chunk.js"
+    "revision": "c8154add6e5addfefc4f",
+    "url": "/kg-cash/static/js/main.845e7bb5.chunk.js"
   },
   {
     "revision": "2b4c73a61027f5325c17",
